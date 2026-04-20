@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Crypto Ninja Chronicles | The Ultimate Success Story</title>
+<style>
+:root {
+--primary-blue: #00d2ff;
+--accent-orange: #ff9900;
+--dark-bg: #0a0b0d;
+--card-bg: rgba(20, 22, 26, 0.9);
+}
+
+body {
+margin: 0;
+padding: 0;
+font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+background-color: var(--dark-bg);
+color: white;
+background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+url('https://googleusercontent.com/image_generation_content/0');
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+}
+
+nav {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px 10%;
+background: rgba(0, 0, 0, 0.8);
+backdrop-filter: blur(10px);
+}
+
+.logo {
+font-weight: bold;
+font-size: 1.5rem;
+letter-spacing: 1px;
+}
+
+.nav-links a {
+color: white;
+text-decoration: none;
+margin-left: 25px;
+font-size: 0.9rem;
+transition: color 0.3s;
+}
+
+.nav-links a:hover {
+color: var(--primary-blue);
+}
+
+.container {
+display: flex;
+justify-content: flex-end;
+padding: 80px 10%;
+min-height: 80vh;
+align-items: center;
+}
+
+.content-card {
+background: var(--card-bg);
+padding: 40px;
+border-radius: 15px;
+max-width: 500px;
+border: 1px solid rgba(255, 255, 255, 0.1);
+box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+backdrop-filter: blur(5px);
+}
+
+h1 {
+color: var(--primary-blue);
+font-size: 2.5rem;
+margin-bottom: 10px;
+text-transform: uppercase;
+}
+
+.subtitle {
+font-style: italic;
+color: var(--accent-orange);
+font-size: 1.2rem;
+margin-bottom: 25px;
+}
+
+p {
+line-height: 1.6;
+color: #ccc;
+margin-bottom: 20px;
+}
+
+.stats-box {
+background: rgba(0, 210, 255, 0.1);
+padding: 15px;
+border-radius: 8px;
+margin: 20px 0;
+border-left: 4px solid var(--primary-blue);
+}
+
+.cta-button {
+display: block;
+background: var(--primary-blue);
+color: black;
+text-align: center;
+padding: 15px;
+border-radius: 5px;
+text-decoration: none;
+font-weight: bold;
+margin-top: 30px;
+transition: transform 0.2s, background 0.3s;
+}
+
+.cta-button:hover {
+transform: translateY(-3px);
+background: #fff;
+}
+
+footer {
+text-align: center;
+padding: 40px;
+font-size: 0.8rem;
+color: #666;
+}
+</style>
+</head>
+<body>
+
+<nav>
+<div class="logo">NFT & CRYPTO SUCCESS</div>
+<div class="nav-links">
+<a href="#">Home</a>
+<a href="#">The Artwork</a>
+<a href="#">Collector's Guide</a>
+<a href="#">Contact</a>
+</div>
+</nav>
+
+<div class="container">
+<div class="content-card">
+<h1>CRYPTO NINJA CHRONICLES</h1>
+<div class="subtitle">The Ultimate Success Story</div>
+
+<p>Featuring the <strong>'Rasengan Bull Run'</strong> artwork, this masterpiece represents the fusion of iconic anime spirit and the unstoppable force of decentralized finance.</p>
+
+<div class="stats-box">
+<strong>HISTORIC MILESTONE:</strong><br>
+Achieved a record-breaking $2.5 Million sale within 48 hours of minting.
+</div>
+
+<p>Follow the journey of the ultimate underdog holding a basket of major coins, solidifying the concept of <strong>'Hokage Hodling.'</strong></p>
+
+<a href="https://www.cryptoninja.io/collection" class="cta-button">VIEW THE COLLECTION</a>
+</div>
+</div>
+
+<footer>
+&copy; 2026 Crypto Ninja Chronicles. All Rights Reserved. | Built for the Blockchain.
+</footer>
+
+</body>
+</html>
